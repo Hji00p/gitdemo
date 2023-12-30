@@ -1,2 +1,4 @@
 First line just first line
 Second line was added
+
+third line for git gui
